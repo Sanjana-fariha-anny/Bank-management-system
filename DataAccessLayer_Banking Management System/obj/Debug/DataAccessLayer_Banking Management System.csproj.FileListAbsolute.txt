@@ -1,0 +1,6 @@
+H:\OOP2 C#\Final project\DataAccessLayer_Banking Management System\bin\Debug\DataAccessLayer_Banking Management System.dll
+H:\OOP2 C#\Final project\DataAccessLayer_Banking Management System\bin\Debug\DataAccessLayer_Banking Management System.pdb
+H:\OOP2 C#\Final project\DataAccessLayer_Banking Management System\obj\Debug\DataAccessLayer_Banking Management System.csproj.AssemblyReference.cache
+H:\OOP2 C#\Final project\DataAccessLayer_Banking Management System\obj\Debug\DataAccessLayer_Banking Management System.csproj.CoreCompileInputs.cache
+H:\OOP2 C#\Final project\DataAccessLayer_Banking Management System\obj\Debug\DataAccessLayer_Banking Management System.dll
+H:\OOP2 C#\Final project\DataAccessLayer_Banking Management System\obj\Debug\DataAccessLayer_Banking Management System.pdb
